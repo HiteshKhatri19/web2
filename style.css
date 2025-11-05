@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+.pfp{
+    width: 15rem;
+    border-radius: 105rem;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card{
+    background-color: gray;
+    text-align: center;
+    border-radius: 2rem;
+    padding: 2rem;
+}
+
+.card h1{
+    margin: 1rem;
+    font-size: 2rem;
+}
+
+.links a{
+    color: black;
+    margin: 1rem;
+    opacity: 75%;
+
+}
